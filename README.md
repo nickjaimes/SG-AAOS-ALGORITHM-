@@ -6,6 +6,25 @@ Safeway Guardian – Saitama, Japan – 2025
 Powered by **ChatGPT**
 
 ---
+Folder layout:
+sg-aaos-algorithms/
+├── README.md
+├── LICENSE
+├── .gitignore
+├── aaos/
+│   ├── __init__.py
+│   └── core/
+│       ├── aaos_engine.py
+│       ├── metrics_model.py
+│       ├── system_adapter.py
+│       ├── policy_profiles.py
+│       └── actions.py
+├── docs/
+│   ├── AAOS_OVERVIEW.md
+│   ├── ARCHITECTURE.md
+│   └── INTEGRATION_GUIDE.md
+└── examples/
+    └── aaos_desktop_boost_demo.py
 
 ## 🌍 What is AAOS?
 
